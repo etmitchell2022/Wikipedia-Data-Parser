@@ -1,0 +1,78 @@
+{
+  "continue": {
+    "rdcontinue": "36913594",
+    "continue": "||revisions"
+  },
+  "query": {
+    "pages": {
+      "390375": {
+        "pageid": 390375,
+        "ns": 0,
+        "title": "Ball State University",
+        "redirects": [
+          {
+            "pageid": 410078,
+            "ns": 0,
+            "title": "Ball State"
+          },
+          {
+            "pageid": 3718568,
+            "ns": 0,
+            "title": "Ball State Teachers College"
+          },
+          {
+            "pageid": 6969709,
+            "ns": 0,
+            "title": "Ball U"
+          },
+          {
+            "pageid": 22749512,
+            "ns": 0,
+            "title": "Ball state"
+          },
+          {
+            "pageid": 22749517,
+            "ns": 0,
+            "title": "Ball state college"
+          },
+          {
+            "pageid": 24539830,
+            "ns": 0,
+            "title": "Digital Media Repository"
+          },
+          {
+            "pageid": 24550989,
+            "ns": 0,
+            "title": "Eleanor Roosevelt Speech Collection"
+          },
+          {
+            "pageid": 27124435,
+            "ns": 0,
+            "title": "Marion Normal College"
+          },
+          {
+            "pageid": 27124439,
+            "ns": 0,
+            "title": "Marion Normal Institute"
+          },
+          {
+            "pageid": 33946420,
+            "ns": 0,
+            "title": "Ball University"
+          }
+        ],
+        "revisions": [
+          {
+            "revid": 915455707,
+            "parentid": 915380330,
+            "minor": "",
+            "user": "Monkbot",
+            "userid": 20483999,
+            "timestamp": "2019-09-13T11:10:41Z",
+            "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (11\u00d7) / removed (0\u00d7) deprecated |dead-url= and |deadurl= with |url-status=;"
+          }
+        ]
+      }
+    }
+  }
+}
